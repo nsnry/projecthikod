@@ -123,6 +123,8 @@
     <img src="d9.jpg" style="top: 250px; left: 400px;">
     <img src="d10.jpg" style="top: 100px; left: 500px;">
     <img src="d1.jpg" style="top: 5%; left: 300px;">
+    /*fotoğraflar*/
+  
   </div>
 
   <div class="container">
